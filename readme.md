@@ -1,3 +1,6 @@
+# Sample screenshot of project setup
+![Alt text](screenshot.png "Screenshot")
+
 ## Below are the instructions from referred repo for setup, provided.
 # Enhanced Homework 2 Instructions
 
